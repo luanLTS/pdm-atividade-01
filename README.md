@@ -1,3 +1,8 @@
+
+## Integrantes
+Luan Luiz Teixeira da Silva - 2040482022002</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/luanLTS)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
